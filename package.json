@@ -1,0 +1,12 @@
+{
+  "name": "fuleni-funerals-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fuleni Funerals G — A House of Comfort, Ceremony & Legacy Care. Static single-page site.",
+  "scripts": {
+    "build": "echo 'Static site — no build step required'",
+    "start": "npx serve ."
+  },
+  "author": "Fuleni Funerals G",
+  "license": "UNLICENSED"
+}
